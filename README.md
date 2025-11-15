@@ -62,3 +62,13 @@ completeness.
 | `chuck.saveSilentlyOnPlay` | `false`                         | Save without prompting before playing the current file.                                                                                   |
 
 Syntax highlighting was initially ported from Courtney Wilburn's [Atom extension](https://github.com/cjwilburn/language-chuck).
+
+# vscodium-chuck
+
+There is no plugin available on open vsx and for some strange reason I was unable to get an access code to publish this plugin in the official registry. Therefore, I have uploaded it here.
+Full credit to the original author.
+
+## Installation 
+
+Download the .vsix file here. From codium, click on the three dots in the extention pane and select "Install from VSIX". Select your recently downloaded .vsix file.
+
